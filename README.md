@@ -41,3 +41,6 @@ Power BI dashboard for tracking Meta Ads performance across Facebook and Instagr
 ## 📬 Connect with Me
 - 💼 LinkedIn: [Sai Keerthana Yarraguntla](https://www.linkedin.com/in/sai-keerthana-yarraguntla)
 - 📧 Email: saikeerthanayarraguntla@gmail.com
+- ## 📸 Dashboard Preview
+![Meta Ad Performance Dashboard](Dashboard.png)
+
